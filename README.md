@@ -65,6 +65,7 @@ cd initFrame && php -S 0:8888
 
 访问：http://127.0.0.1:8888/index.php
 ```
+```
 响应:
 index.tpl文件
 
@@ -90,7 +91,6 @@ No
 6 => 7 
 文件引入:mmaaabbcc456123xzhes
 ```
----
 ```
 访问：http://127.0.0.1:8888/test.php
 响应:
